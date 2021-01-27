@@ -1,2 +1,6 @@
 first line added
+<<<<<<< HEAD
 third line
+=======
+second line added
+>>>>>>> 9b1182c6190a9c182d2791c23ef14338b4979230
